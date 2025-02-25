@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Dave Ejejzie
+I am a Full-Stack Software Developer who loves building digital solutions for businesses. I would love to combine my passion for business and technical skills to empower business to push towards growth and efficiency.
 
-<!---
-Davest9496/Davest9496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Proficient in programming languages including TypeScript, NodeJS, React, Angular, Postgres and ScSS. I am using the high-value skills acquired from the just concluded Udacity nano-degree to build an e-commerce website which will include admin dashboard for analytics, and also, a Feedback System app for freelancers and businesses, all personalised for different business needs.
+
+I am committed to life-long learning, and I continuously seek to broaden my understanding of software development methodologies and best practices.
