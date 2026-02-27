@@ -53,5 +53,4 @@ Practical scripts built around real IT support scenarios. The goal is simple: re
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daveejezie-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/daveejezie)
-[![Website](https://img.shields.io/badge/Website-duejezie.dev-1F4E79?style=flat&logo=google-chrome)](https://duejezie.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daveejezie-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/dave-ejezie-896798b9)
