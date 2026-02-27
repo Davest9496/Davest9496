@@ -9,7 +9,7 @@ My day-to-day involves administering **Genetec CCTV**, **Envoy visitor managemen
 ## 🎯 Currently Focused On
 
 - Landing my first dedicated IT Support role in London
-- **MS-900** exam — booked March 2026
+- **MS-900** exam — booked 11th March 2026
 - **ITIL 4 Foundation** — expected March 2026
 - **ServiceNow CSA** (Certified System Administrator) — in progress
 
@@ -48,8 +48,6 @@ Practical scripts built around real IT support scenarios. The goal is simple: re
 |---|---|---|
 | `system-health-check` | PowerShell | Checks disk, RAM, CPU, services, and network — outputs a formatted diagnostic report |
 | `incident-log-reporter` | Python | Parses helpdesk incident CSVs and generates summary reports by category, priority, and resolution time |
-
-> These scripts reflect the kind of work I do alongside standard support duties — not just fixing issues, but building small tools that help teams operate more efficiently.
 
 ---
 
