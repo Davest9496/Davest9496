@@ -9,9 +9,9 @@ My day-to-day involves administering **Genetec CCTV**, **Envoy visitor managemen
 ## 🎯 Currently Focused On
 
 - Landing my first dedicated IT Support role in London
-- **MS-900** exam — booked 11th March 2026
+- **MS-900** Achieved March 2026
 - **ITIL 4 Foundation** — expected March 2026
-- **ServiceNow CSA** (Certified System Administrator) — in progress
+- **AZ-900** — in progress
 
 ---
 
@@ -20,7 +20,7 @@ My day-to-day involves administering **Genetec CCTV**, **Envoy visitor managemen
 | Certification | Status |
 |---|---|
 | CompTIA A+ (220-1101 & 220-1102) | ✅ Achieved — February 2026 |
-| Microsoft 365 Fundamentals (MS-900) | 🔄 In Progress |
+| Microsoft 365 Fundamentals (MS-900) | ✅ Achieved — March 2026 |
 | ITIL 4 Foundation | 🔄 In Progress |
 | ServiceNow Certified System Administrator | 🔄 In Progress |
 | CompTIA Network+ | 🎯 Next target |
