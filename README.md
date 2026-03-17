@@ -22,8 +22,7 @@ My day-to-day involves administering **Genetec CCTV**, **Envoy visitor managemen
 | CompTIA A+ (220-1101 & 220-1102) | ✅ Achieved — February 2026 |
 | Microsoft 365 Fundamentals (MS-900) | ✅ Achieved — March 2026 |
 | ITIL 4 Foundation | 🔄 In Progress |
-| ServiceNow Certified System Administrator | 🔄 In Progress |
-| CompTIA Network+ | 🎯 Next target |
+| AZ-900 | 🎯 Next target |
 
 ---
 
