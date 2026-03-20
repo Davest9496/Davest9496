@@ -1,6 +1,6 @@
 # Hi, I'm Dave Ejezie 👋
 
-**IT-focused professional transitioning into 1st Line IT Support** — with hands-on experience operating enterprise-grade systems in a live corporate environment at a global media company in London.
+**IT-focused professional transitioning into 1st Line IT Support** — with hands-on experience operating enterprise-grade systems in a corporate environment at a global media company in London. Building real-world help desk and sysadmin skills through a fully virtualised lab environment. Targeting MSP and IT support roles with hands-on experience in Active Directory, networking, ITIL-aligned incident management, and Microsoft 365 administration.
 
 My day-to-day involves administering **Genetec CCTV**, **Envoy visitor management**, and **electronic access control** platforms, alongside Microsoft 365 incident triage and coordination with internal IT teams. I build lightweight automation scripts to reduce repetitive support tasks and improve how helpdesk workflows operate.
 
@@ -11,7 +11,7 @@ My day-to-day involves administering **Genetec CCTV**, **Envoy visitor managemen
 - Landing my first dedicated IT Support role in London
 - **MS-900** Achieved March 2026
 - **ITIL 4 Foundation** — expected March 2026
-- **AZ-900** — in progress
+- **AZ-104** — 🎯 Next target
 
 ---
 
@@ -21,8 +21,8 @@ My day-to-day involves administering **Genetec CCTV**, **Envoy visitor managemen
 |---|---|
 | CompTIA A+ (220-1101 & 220-1102) | ✅ Achieved — February 2026 |
 | Microsoft 365 Fundamentals (MS-900) | ✅ Achieved — March 2026 |
-| ITIL 4 Foundation | 🔄 In Progress |
-| AZ-900 | 🎯 Next target |
+| ITIL 4 Foundation | Booked - March 24 |
+| AZ-104 | 🎯 Next target |
 
 ---
 
