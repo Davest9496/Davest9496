@@ -11,7 +11,7 @@ My day-to-day involves administering **Genetec CCTV**, **Envoy visitor managemen
 - Landing my first dedicated IT Support role in London
 - **MS-900** Achieved March 2026
 - **ITIL 4 Foundation** — expected March 2026
-- **AZ-104** — 🎯 Next target
+- **AZ-900** — 🎯 Next target
 
 ---
 
@@ -22,7 +22,7 @@ My day-to-day involves administering **Genetec CCTV**, **Envoy visitor managemen
 | CompTIA A+ (220-1101 & 220-1102) | ✅ Achieved — February 2026 |
 | Microsoft 365 Fundamentals (MS-900) | ✅ Achieved — March 2026 |
 | ITIL 4 Foundation | Booked - March 24 |
-| AZ-104 | 🎯 Next target |
+| AZ-900 | 🎯 Next target |
 
 ---
 
