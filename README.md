@@ -1,17 +1,19 @@
 # Hi, I'm Dave Ejezie 👋
 
-**IT-focused professional transitioning into 1st Line IT Support** — with hands-on experience operating enterprise-grade systems in a corporate environment at a global media company in London. Building real-world help desk and sysadmin skills through a fully virtualised lab environment. Targeting MSP and IT support roles with hands-on experience in Active Directory, networking, ITIL-aligned incident management, and Microsoft 365 administration.
+CompTIA A+, ITIL 4, and MS-900 certified IT professional with active hands-on experience across managed IT services, Microsoft 365 administration, AWS infrastructure, and enterprise ITSM workflows. Currently providing IT support and cloud infrastructure services to three live SME clients through KDV Lab — deploying and managing Microsoft 365 tenants, administering Active Directory, and running first-line incident response across cloud and on-premises environments.
 
-My day-to-day involves administering **Genetec CCTV**, **Envoy visitor management**, and **electronic access control** platforms, alongside Microsoft 365 incident triage and coordination with internal IT teams. I build lightweight automation scripts to reduce repetitive support tasks and improve how helpdesk workflows operate.
+Background spans fullstack JavaScript development (AWS, Node.js, PostgreSQL) and enterprise IT-adjacent operations — including daily ServiceNow incident management, Genetec CCTV and electronic access control administration at Deluxe, a global media company. Active scripting capability in Python and Bash. Built and maintain SmartDesk247, a multi-tenant SaaS workforce management platform deployed on live AWS infrastructure. AD DS home lab documented on GitHub.
+
+Seeking a 1st-line service desk or MSP engineer role in London. Available immediately. AZ-104 (Microsoft Azure Administrator) in progress. Portfolio and lab documentation: duejezie.dev
 
 ---
 
 ## 🎯 Currently Focused On
 
-- Landing my first dedicated IT Support role in London
-- **MS-900** Achieved March 2026
-- **ITIL 4 Foundation** — expected March 2026
-- **AZ-900** — 🎯 Next target
+- Landing a 1st-line service desk or MSP engineer role in London
+- Improving my Networking skills using packet tracer and windows server 2022
+- **AZ-104 (Microsoft Azure Administrator)** — 🎯 In progress
+- **CCNA (Cisco Certified Network Associate)** — 📅 Planned after AZ-104
 
 ---
 
@@ -21,8 +23,9 @@ My day-to-day involves administering **Genetec CCTV**, **Envoy visitor managemen
 |---|---|
 | CompTIA A+ (220-1101 & 220-1102) | ✅ Achieved — February 2026 |
 | Microsoft 365 Fundamentals (MS-900) | ✅ Achieved — March 2026 |
-| ITIL 4 Foundation | Booked - March 24 |
-| AZ-900 | 🎯 Next target |
+| ITIL 4 Foundation | ✅ Achieved |
+| AZ-104 (Microsoft Azure Administrator) | 🎯 In progress |
+| CCNA (Cisco Certified Network Associate) | 📅 Planned |
 
 ---
 
@@ -39,17 +42,7 @@ My day-to-day involves administering **Genetec CCTV**, **Envoy visitor managemen
 
 ---
 
-## 📂 Helpdesk Automation Scripts
-
-Practical scripts built around real IT support scenarios. The goal is simple: reduce repetitive manual tasks, surface useful information faster, and make support processes more reliable.
-
-| Script | Language | Description |
-|---|---|---|
-| `system-health-check` | PowerShell | Checks disk, RAM, CPU, services, and network — outputs a formatted diagnostic report |
-| `incident-log-reporter` | Python | Parses helpdesk incident CSVs and generates summary reports by category, priority, and resolution time |
-
----
-
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daveejezie-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/dave-ejezie-896798b9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-duejezie.dev-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://www.duejezie.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daveejezie-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dave-ejezie)
