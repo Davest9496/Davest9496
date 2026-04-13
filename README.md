@@ -12,8 +12,7 @@ Seeking a 1st-line service desk or MSP engineer role in London. Available immedi
 
 - Landing a 1st-line service desk or MSP engineer role in London
 - Improving my Networking skills using packet tracer and windows server 2022
-- **AZ-104 (Microsoft Azure Administrator)** — 🎯 In progress
-- **CCNA (Cisco Certified Network Associate)** — 📅 Planned after AZ-104
+- **MD-102 (Microsoft Endpoint Administrator)** — 🎯 In progress
 
 ---
 
@@ -24,8 +23,6 @@ Seeking a 1st-line service desk or MSP engineer role in London. Available immedi
 | CompTIA A+ (220-1101 & 220-1102) | ✅ Achieved — February 2026 |
 | Microsoft 365 Fundamentals (MS-900) | ✅ Achieved — March 2026 |
 | ITIL 4 Foundation | ✅ Achieved |
-| AZ-104 (Microsoft Azure Administrator) | 🎯 In progress |
-| CCNA (Cisco Certified Network Associate) | 📅 Planned |
 
 ---
 
