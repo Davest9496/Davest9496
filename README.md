@@ -4,7 +4,7 @@ CompTIA A+, ITIL 4, and MS-900 certified IT professional with active hands-on ex
 
 Background spans fullstack JavaScript development (AWS, Node.js, PostgreSQL) and enterprise IT-adjacent operations — including daily ServiceNow incident management, Genetec CCTV and electronic access control administration at Deluxe, a global media company. Active scripting capability in Python and Bash. Built and maintain SmartDesk247, a multi-tenant SaaS workforce management platform deployed on live AWS infrastructure. AD DS home lab documented on GitHub.
 
-Seeking a 1st-line service desk or MSP engineer role in London. Available immediately. AZ-104 (Microsoft Azure Administrator) in progress. Portfolio and lab documentation: duejezie.dev
+Seeking a 1st-line service desk or MSP engineer role in London. Available immediately. MD-102 (Microsoft Endpoint Administrator) in progress. Portfolio and lab documentation: duejezie.dev
 
 ---
 
