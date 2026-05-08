@@ -1,10 +1,8 @@
 # Hi, I'm Dave Ejezie 👋
 
-CompTIA A+, ITIL 4, and MS-900 certified IT professional with active hands-on experience across managed IT services, Microsoft 365 administration, AWS infrastructure, and enterprise ITSM workflows. Currently providing IT support and cloud infrastructure services to three live SME clients through KDV Lab — deploying and managing Microsoft 365 tenants, administering Active Directory, and running first-line incident response across cloud and on-premises environments.
+CompTIA A+, ITIL 4, and MS-900 certified IT professional with active hands-on experience across managed IT services, Microsoft 365 administration, AWS infrastructure, and enterprise ITSM workflows. Currently providing IT support with Power to Connect (Volunteering) and hands-on deploying and managing Microsoft 365 tenants, administering Active Directory, and running first-line incident response across cloud and on-premises environments via HomeLab setup and M365 trial Account.
 
-Background spans fullstack JavaScript development (AWS, Node.js, PostgreSQL) and enterprise IT-adjacent operations — including daily ServiceNow incident management, Genetec CCTV and electronic access control administration at Deluxe, a global media company. Active scripting capability in Python and Bash. Built and maintain SmartDesk247, a multi-tenant SaaS workforce management platform deployed on live AWS infrastructure. AD DS home lab documented on GitHub.
-
-Seeking a 1st-line service desk or MSP engineer role in London. Available immediately. MD-102 (Microsoft Endpoint Administrator) in progress. Portfolio and lab documentation: duejezie.dev
+Seeking a 1st-line service desk or MSP engineer role in London. CompTIA Network+ in progress. Portfolio and lab documentation: duejezie.dev
 
 ---
 
@@ -12,7 +10,7 @@ Seeking a 1st-line service desk or MSP engineer role in London. Available immedi
 
 - Landing a 1st-line service desk or MSP engineer role in London
 - Improving my Networking skills using packet tracer and windows server 2022
-- **MD-102 (Microsoft Endpoint Administrator)** — 🎯 In progress
+- **CompTIA Network+** — 🎯 In progress
 
 ---
 
@@ -31,7 +29,7 @@ Seeking a 1st-line service desk or MSP engineer role in London. Available immedi
 | Category | Tools |
 |---|---|
 | **IT Support** | ServiceNow · Microsoft 365 · ITSM · Incident triage & escalation |
-| **Systems** | Genetec CCTV · Envoy · Electronic access control · BMS platforms |
+| **Systems** | Genetec CCTV · Envoy · Electronic access control|
 | **Cloud** | AWS (S3 · EC2 · RDS · CloudFront · Elastic Beanstalk) |
 | **Scripting** | PowerShell · Python |
 | **Operating Systems** | Windows 10/11 · Linux (Ubuntu) · macOS |
